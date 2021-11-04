@@ -76,6 +76,8 @@ nav a:active{
 .nav_item a{
     padding: 5px;
     margin-right: 25px;
+    font-size: 3.3vmin;
+
 }
 
 #current_link{
