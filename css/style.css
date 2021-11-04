@@ -32,7 +32,7 @@ header{
 .nav_links{
     display: flex;
     padding-top: 20px;
-    padding-bottom: 9px;
+    padding-bottom: 6.3px;
     flex-wrap: wrap;
 
 }
@@ -85,7 +85,7 @@ nav a:active{
     border-radius: 1%;
     border: black solid 2px;
     border-bottom: none;
-    font-size: 130%;
+    font-size: 4vmin;
 }
 
 .container{
